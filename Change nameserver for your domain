@@ -1,0 +1,8 @@
+########################################
+
+As we have purchase the domain from freenom and creating DNS zones on Route53, then you have to change the nameserver on the freenom.
+
+Steps to follow:
+
+1) Go to freenom and click on manage domain, there will be an option of change nameserver , click on it.
+2) Go to Route53, there you will find nameserver for your domain and put those nameserver in freenom.
